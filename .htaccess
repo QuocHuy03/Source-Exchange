@@ -1,0 +1,103 @@
+RewriteEngine On
+<IfModule mod_rewrite.c>
+    <IfModule mod_negotiation.c>
+        Options -MultiViews -Indexes
+    </IfModule>
+</IfModule>
+# Admin HuyDev
+RewriteRule ^thesieure/Listthesieure$ public/thesieure/Listthesieure.php [L]
+# Admin HuyDev
+RewriteRule ^info/profile$ public/info/Profile.php [L]
+RewriteRule ^order$ public/Cart.php [L]
+RewriteRule ^list-order$ public/ListOrder.php [L]
+RewriteRule ^detail-order/([A-Za-z0-9-]+) public/DetailOrder.php?code=$1 [L]
+RewriteRule ^api-document$ public/document/DocumentApi.php [L]
+RewriteRule ^buy-document$ public/Document.php [L]
+RewriteRule ^dang-ky$ public/Register.php [L]
+RewriteRule ^dang-nhap$ public/Login.php [L]
+RewriteRule ^dang-nhap-facebook$ public/Facebook.php [L]
+RewriteRule ^dang-nhap-google$ public/Google.php [L]
+RewriteRule ^Logout$ public/Logout.php [L]
+RewriteRule ^quen-mat-khau$ public/ForgotPass.php [L]
+RewriteRule ^xac-thuc-khoi-phuc$ public/ConfirmPass.php [L]
+RewriteRule ^doi-mat-khau$ public/ChangePass.php [L]
+RewriteRule ^recharge$ public/money/Recharge.php [L]
+RewriteRule ^transfer$ public/money/Transfer.php [L]
+RewriteRule ^buy-interactive$ public/BuyInteractive.php [L]
+# ViewHome
+RewriteRule ^products/([A-Za-z0-9-]+) public/DetailProduct.php?code=$1 [L]
+RewriteRule ^categorys/([A-Za-z0-9-]+) public/Categories.php?code=$1 [L]
+RewriteRule ^creact-detail/([A-Za-z0-9-]+) public/DetailShops.php?code=$1 [L]
+RewriteRule ^hosting-detail/([A-Za-z0-9-]+) public/DetailHosting.php?code=$1 [L]
+RewriteRule ^vps-detail/([A-Za-z0-9-]+) public/DetailVPS.php?code=$1 [L]
+# Get Order API
+RewriteRule ^service/getv2$ apitoken/ApiListSource.php [L]
+RewriteRule ^request/getv2$ apitoken/ApiGetOrderSource.php [L]
+RewriteRule ^users/balance$ apitoken/ApiGetBalance.php [L]
+RewriteRule ^response/history$ apitoken/ApiGetHistory.php [L]
+# Tools
+RewriteRule ^checks-domail$ public/CheckDomain.php [L]
+RewriteRule ^whois$ public/ListWhois.php [L]
+RewriteRule ^getID$ public/getID.php [L]
+RewriteRule ^get2FA$ public/get2FA.php [L]
+RewriteRule ^checkLiveDie$ public/checkLiveDie.php [L]
+# HuyDEv
+RewriteRule ^lich-su-mua-code$ public/History.php [L]
+RewriteRule ^thong-tin$ public/Profile.php [L]
+RewriteRule ^yeu-thich$ public/Favorite.php [L]
+RewriteRule ^Blogs$ public/client/Blogs.php [L]
+RewriteRule ^Blog/([A-Za-z0-9-]+) public/client/XemBlog.php?id=$1 [L]
+RewriteRule ^nap-the-cao$ public/Card.php [L]
+RewriteRule ^mmo$ public/Products.php [L]
+RewriteRule ^shops$ public/CreateShop.php [L]
+RewriteRule ^list-shop$ public/ListShop.php [L]
+RewriteRule ^bai-viet$ public/Blog.php [L]
+RewriteRule ^khieu-nai$ public/Ticket.php [L]
+RewriteRule ^hosting$ public/Hosting.php [L]
+RewriteRule ^list-hosting$ public/ListHosting.php [L]
+RewriteRule ^list-vps$ public/ListVPS.php [L]
+RewriteRule ^create-domails$ public/Domain.php [L]
+RewriteRule ^create-otp$ public/CreateOTP.php [L]
+RewriteRule ^vps$ public/CreateVPS.php [L]
+
+
+
+ErrorDocument 404 /404.php
+# Admin
+RewriteRule ^admin$ public/admin/Home.php [L]
+RewriteRule ^admin/Users$ public/admin/ListUsers.php [L]
+RewriteRule ^admin/ListUsers/Edit/([A-Za-z0-9-]+) public/admin/EditUsers.php?id=$1 [L]
+RewriteRule ^admin/ListProduct$ public/admin/ListProducts.php [L]
+RewriteRule ^admin/ListProduct/Edit/([A-Za-z0-9-]+) public/admin/EditProducts.php?id=$1 [L]
+RewriteRule ^admin/ListCategory$ public/admin/ListCategory.php [L]
+RewriteRule ^admin/ListCategory/Edit/([A-Za-z0-9-]+) public/admin/EditCategory.php?id=$1 [L]
+RewriteRule ^admin/ListShop$ public/admin/ListShop.php [L]
+RewriteRule ^admin/ListShop/Edit/([A-Za-z0-9-]+) public/admin/Editshop.php?id=$1 [L]
+RewriteRule ^admin/bank-list$ public/admin/ListBank.php [L]
+RewriteRule ^admin/notification$ public/admin/Notification.php [L]
+RewriteRule ^admin/Setting$ public/admin/Setting.php [L]
+RewriteRule ^admin/ListBankAuto$ public/admin/ListBankAuto.php [L]
+RewriteRule ^admin/ListCard$ public/admin/ListCard.php [L]
+RewriteRule ^admin/ListOrder$ public/admin/ListOrder.php [L]
+RewriteRule ^admin/ListDetailOrder/([A-Za-z0-9-]+) public/admin/ListDetailOrder.php?code=$1 [L]
+RewriteRule ^admin/ListCreateShop$ public/admin/ListCreateShop.php [L]
+RewriteRule ^admin/StatusShop/([A-Za-z0-9-]+) public/admin/StatusShop.php?code=$1 [L]
+RewriteRule ^admin/Setting/Edit/([A-Za-z0-9-]+) public/admin/EditSetting.php?id=$1 [L]
+RewriteRule ^admin/Ticket$ public/admin/Ticket.php [L]
+RewriteRule ^admin/Ticket/Edit/([A-Za-z0-9-]+) public/admin/EditTicket.php?id=$1 [L]
+RewriteRule ^admin/ListDomain$ public/admin/ListDomain.php [L]
+RewriteRule ^admin/StatusDomain/([A-Za-z0-9-]+) public/admin/StatusDomain.php?code=$1 [L]
+RewriteRule ^admin/ListOrderHosting$ public/admin/ListOrderHosting.php [L]
+RewriteRule ^admin/ListHosting$ public/admin/ListHosting.php [L]
+RewriteRule ^admin/ListHosting/Edit/([A-Za-z0-9-]+) public/admin/EditHosting.php?id=$1 [L]
+RewriteRule ^admin/ListVPS$ public/admin/ListVPS.php [L]
+RewriteRule ^admin/ListVPS/Edit/([A-Za-z0-9-]+) public/admin/EditVPS.php?id=$1 [L]
+RewriteRule ^admin/ListOrderVPS$ public/admin/ListOrderVPS.php [L]
+RewriteRule ^admin/ListOrderOTP$ public/admin/ListOrderOTP.php [L]
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “alt-php74” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-alt-php74 .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit

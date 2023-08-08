@@ -1,0 +1,234 @@
+[07-Apr-2023 21:21:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[07-Apr-2023 21:21:26 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[07-Apr-2023 21:21:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[07-Apr-2023 21:21:26 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[07-Apr-2023 21:21:26 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[07-Apr-2023 22:14:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[07-Apr-2023 22:14:29 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[07-Apr-2023 22:14:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[07-Apr-2023 22:14:29 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[07-Apr-2023 22:14:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[09-Apr-2023 22:02:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[09-Apr-2023 22:02:16 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[09-Apr-2023 22:02:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[09-Apr-2023 22:02:16 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[09-Apr-2023 22:02:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[13-Apr-2023 14:17:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[13-Apr-2023 14:17:45 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[13-Apr-2023 14:17:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[13-Apr-2023 14:17:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[13-Apr-2023 14:17:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[26-Apr-2023 22:35:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[26-Apr-2023 22:35:31 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[26-Apr-2023 22:35:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[26-Apr-2023 22:35:31 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[26-Apr-2023 22:35:31 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[26-Apr-2023 22:35:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[26-Apr-2023 22:35:41 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[26-Apr-2023 22:35:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[26-Apr-2023 22:35:41 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[26-Apr-2023 22:35:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[27-Apr-2023 14:27:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[27-Apr-2023 14:27:11 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[27-Apr-2023 14:27:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[27-Apr-2023 14:27:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[27-Apr-2023 14:27:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[30-Apr-2023 22:08:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[30-Apr-2023 22:08:45 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[30-Apr-2023 22:08:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[30-Apr-2023 22:08:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[30-Apr-2023 22:08:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[01-May-2023 16:00:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[01-May-2023 16:00:23 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[01-May-2023 16:00:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[01-May-2023 16:00:23 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[01-May-2023 16:00:23 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[02-May-2023 21:07:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[02-May-2023 21:07:57 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[02-May-2023 21:07:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[02-May-2023 21:07:57 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[02-May-2023 21:07:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[04-May-2023 09:13:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[04-May-2023 09:13:17 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[04-May-2023 09:13:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[04-May-2023 09:13:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[04-May-2023 09:13:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[05-May-2023 04:03:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[05-May-2023 04:03:29 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[05-May-2023 04:03:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[05-May-2023 04:03:29 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[05-May-2023 04:03:29 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[05-May-2023 04:04:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[05-May-2023 04:04:33 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[05-May-2023 04:04:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[05-May-2023 04:04:33 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[05-May-2023 04:04:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[07-May-2023 17:11:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[07-May-2023 17:11:37 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[07-May-2023 17:11:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[07-May-2023 17:11:37 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[07-May-2023 17:11:37 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[09-May-2023 19:37:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[09-May-2023 19:37:46 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[09-May-2023 19:37:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[09-May-2023 19:37:46 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[09-May-2023 19:37:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[09-May-2023 22:34:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[09-May-2023 22:34:05 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[09-May-2023 22:34:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[09-May-2023 22:34:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[09-May-2023 22:34:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[13-May-2023 12:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[13-May-2023 12:21:57 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[13-May-2023 12:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[13-May-2023 12:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[13-May-2023 12:21:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[14-May-2023 01:35:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[14-May-2023 01:35:46 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[14-May-2023 01:35:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[14-May-2023 01:35:46 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[14-May-2023 01:35:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[14-May-2023 09:42:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[14-May-2023 09:42:03 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[14-May-2023 09:42:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[14-May-2023 09:42:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[14-May-2023 09:42:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[14-May-2023 09:44:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[14-May-2023 09:44:34 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[14-May-2023 09:44:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[14-May-2023 09:44:34 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[14-May-2023 09:44:34 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[14-May-2023 09:58:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[14-May-2023 09:58:50 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[14-May-2023 09:58:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[14-May-2023 09:58:50 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[14-May-2023 09:58:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[15-May-2023 22:20:15 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[15-May-2023 22:20:15 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[15-May-2023 22:20:15 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[15-May-2023 22:20:15 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[15-May-2023 22:20:15 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[16-May-2023 07:19:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[16-May-2023 07:19:51 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[16-May-2023 07:19:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[16-May-2023 07:19:51 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[16-May-2023 07:19:51 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[16-May-2023 07:19:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[16-May-2023 07:19:54 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[16-May-2023 07:19:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[16-May-2023 07:19:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[16-May-2023 07:19:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[17-May-2023 07:53:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[17-May-2023 07:53:46 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[17-May-2023 07:53:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[17-May-2023 07:53:46 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[17-May-2023 07:53:46 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[17-May-2023 12:41:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[17-May-2023 12:41:11 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[17-May-2023 12:41:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[17-May-2023 12:41:11 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[17-May-2023 12:41:11 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[17-May-2023 12:41:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[17-May-2023 12:41:14 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[17-May-2023 12:41:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[17-May-2023 12:41:14 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[17-May-2023 12:41:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[17-May-2023 12:41:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[17-May-2023 12:41:39 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[17-May-2023 12:41:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[17-May-2023 12:41:39 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[17-May-2023 12:41:39 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[17-May-2023 12:41:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[17-May-2023 12:41:54 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[17-May-2023 12:41:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[17-May-2023 12:41:54 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[17-May-2023 12:41:54 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[17-May-2023 12:41:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[17-May-2023 12:41:56 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[17-May-2023 12:41:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[17-May-2023 12:41:56 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[17-May-2023 12:41:56 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[17-May-2023 19:12:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[17-May-2023 19:12:28 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[17-May-2023 19:12:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[17-May-2023 19:12:28 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[17-May-2023 19:12:28 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[18-May-2023 09:41:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[18-May-2023 09:41:25 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[18-May-2023 09:41:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[18-May-2023 09:41:25 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[18-May-2023 09:41:25 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[18-May-2023 15:10:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[18-May-2023 15:10:21 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[18-May-2023 15:10:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[18-May-2023 15:10:21 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[18-May-2023 15:10:21 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[22-May-2023 11:24:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[22-May-2023 11:24:48 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[22-May-2023 11:24:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[22-May-2023 11:24:48 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[22-May-2023 11:24:48 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[25-May-2023 15:09:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[25-May-2023 15:09:12 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[25-May-2023 15:09:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[25-May-2023 15:09:12 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[25-May-2023 15:09:12 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[25-May-2023 21:47:36 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[25-May-2023 21:47:36 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[25-May-2023 22:28:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[25-May-2023 22:28:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[01-Jun-2023 00:08:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[01-Jun-2023 00:08:59 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[01-Jun-2023 00:08:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[01-Jun-2023 00:08:59 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[01-Jun-2023 00:08:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[05-Jun-2023 16:22:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[05-Jun-2023 16:22:00 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[05-Jun-2023 16:22:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[05-Jun-2023 16:22:00 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[05-Jun-2023 16:22:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[16-Jun-2023 20:22:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[16-Jun-2023 20:22:50 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[16-Jun-2023 20:22:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[16-Jun-2023 20:22:50 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[16-Jun-2023 20:22:50 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[18-Jun-2023 10:32:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[18-Jun-2023 10:32:18 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[18-Jun-2023 10:32:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[18-Jun-2023 10:32:18 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[18-Jun-2023 10:32:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[18-Jun-2023 10:32:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[18-Jun-2023 10:32:45 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[18-Jun-2023 10:32:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[18-Jun-2023 10:32:45 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[18-Jun-2023 10:32:45 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[19-Jun-2023 07:31:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[19-Jun-2023 07:31:35 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[19-Jun-2023 07:31:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[19-Jun-2023 07:31:35 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[19-Jun-2023 07:31:35 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[19-Jun-2023 07:40:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[19-Jun-2023 07:40:18 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[19-Jun-2023 07:40:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[19-Jun-2023 07:40:18 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[19-Jun-2023 07:40:18 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[23-Jun-2023 17:53:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[23-Jun-2023 17:53:20 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[23-Jun-2023 17:53:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[23-Jun-2023 17:53:20 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[23-Jun-2023 17:53:20 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[20-Jul-2023 13:32:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[20-Jul-2023 13:32:07 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[20-Jul-2023 13:32:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[20-Jul-2023 13:32:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[20-Jul-2023 13:32:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[20-Jul-2023 13:32:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[20-Jul-2023 13:32:08 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[20-Jul-2023 13:32:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[20-Jul-2023 13:32:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[20-Jul-2023 13:32:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
+[06-Aug-2023 11:29:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 94
+[06-Aug-2023 11:29:14 Asia/Ho_Chi_Minh] PHP Warning:  Invalid argument supplied for foreach() in /home/quochuyd/public_html/public/Cart.php on line 94
+[06-Aug-2023 11:29:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: key2 in /home/quochuyd/public_html/public/Cart.php on line 135
+[06-Aug-2023 11:29:14 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/quochuyd/public_html/public/Cart.php on line 135
+[06-Aug-2023 11:29:14 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: cart in /home/quochuyd/public_html/public/Cart.php on line 218
